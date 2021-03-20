@@ -1,0 +1,140 @@
+﻿                             body
+{
+	background:url(pictures/fon.jpg);
+}
+.main 
+{
+	background:#777777; 
+	position:relative;
+	width:900px;
+	margin:0px auto;
+	box-shadow:0px 0px 30px black;
+}
+.top_index
+{
+	position:relative;
+	background:#777777 url(foto_golovna.jpg);
+	background-repeat:no-repeat;
+	width:900px;
+	height:420px;
+}
+.menu   
+{
+	width:898px;
+	height:58px;
+	background:#c7cfd7;
+	padding:0px 0px 0px 2px;
+}
+.menu a
+{
+   display:block;
+   background:#717b7b;
+   height:40px;
+   width:175px;
+   padding-top:12px;
+   margin:3px 2px 4px 2px;
+   float:left;
+
+   font-family:Adventure;
+   font-size:17pt;
+   letter-spacing:3px;
+   color:#ffffff;
+   text-decoration:none;
+   text-align:center;
+}
+.menu a:hover
+{
+	background:#c7cfd7;
+	color:#FF0000;
+}
+.menu a.action
+{
+	background:#c7cfd7;
+	color:#555555;
+}
+
+.center h1
+{
+	font-family:Adventure;
+	color:white;
+	text-align:center;
+	padding:20px 0px 0px 0px;
+}
+.center p
+{
+	text-align:justify;
+	padding:20px 150px 100px 150px;
+	color:white;
+	font-size:21px;
+	font-family:Adventure;
+	letter-spacing:1px;
+}
+
+.top_opus
+{
+	position:relative;
+	background:#777777 url(pictures/church_golovna.jpg);
+	background-repeat:no-repeat;
+	width:900px;
+	height:420px;
+}
+.top_74
+{
+	position:relative;
+	background:#777777 url(pictures/str3top.jpg);
+	background-repeat:no-repeat;
+	width:900px;
+	height:420px;
+}
+.top_1777
+{
+	position:center;
+	text-align: center; background:#777777 url(pictures/162_900x420.jpg);
+	background-repeat:no-repeat;
+	width:900px;
+	height:420px;
+}
+.top_dolya
+{
+	position:relative;
+	background:#777777 url(pictures/out16_tn_900x420.jpg);
+	background-repeat:no-repeat;
+	width:900px;
+	height:420px;
+}
+.center
+{
+	position:relative;
+	width:900px;
+	background:#777777;
+	margin:20px 0px 0px 0px;
+}
+
+
+.block-img
+{
+	width:870px;
+	margin:0px auto;
+}
+.block-img img
+{
+	margin: 10px 0px 10px 0px;
+	border:2px solid #333333;
+}
+.center h1
+{
+	color:white;
+	text-align:center;
+	padding:20px 0px 0px 0px;
+}
+.center table
+{
+	color:white;
+	text-align:justify;
+	padding:0px 20px;
+
+}
+table img
+{
+	border:2px solid #aeb2b1;
+}
